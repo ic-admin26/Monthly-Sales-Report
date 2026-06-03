@@ -1,0 +1,12 @@
+{
+  "name": "ic-monthly-sales-report",
+  "version": "1.0.0",
+  "description": "Integration Controls Monthly Sales Report",
+  "scripts": {
+    "start": "npx serve . -p 3000 --no-clipboard",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
